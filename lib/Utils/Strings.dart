@@ -1,0 +1,1 @@
+const home="Home",videos="Videos",chart="Chart",account="Account";
